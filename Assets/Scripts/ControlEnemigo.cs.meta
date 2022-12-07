@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f333817f3d0e4cf46baf2e2ab419eed4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Pb: {instanceID: 0}
+  - position1: {instanceID: 0}
+  - position2: {instanceID: 0}
+  - "sonidoDa\xF1o": {fileID: 7329016062982386351, guid: 923f58722e702de4caadc79f7d8206c4,
+      type: 3}
+  - sonidoMorir: {fileID: 6486039591390717171, guid: 14103a3d92447614fba913fd9632466b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

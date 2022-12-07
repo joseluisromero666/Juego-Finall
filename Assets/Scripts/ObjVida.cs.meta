@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0d6e6ca5b0bda13418c487091ea32e36
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Cpuntos: {instanceID: 0}
+  - SonidoDestruccion: {fileID: 8983813972443474143, guid: 0300f4f9ab06565459229da39d31c72e,
+      type: 3}
+  - SonidoDU: {fileID: 4905849067041067715, guid: 1c3d3a2268b80554ba74b1345a6f1756,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
